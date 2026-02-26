@@ -3,16 +3,21 @@
 	<img src="public/w3.jpg" alt="W3Schools Banner" style="width:100%; max-width:800px;">
 </div>
 
-# W3Schools Python Module Learning
 
-This repository is for learning and practicing Python modules, following the W3Schools Python course.
+# W3Schools Python Learning
+
+This repository is for learning Python from the ground up, following the W3Schools Python course. It includes examples, exercises, and notes covering:
 
 ## Overview
 
-Here you'll find examples, exercises, and notes focused on Python modules:
-- Creating custom modules
-- Using built-in and external modules
-- Understanding module structure and usage
+- Python basics and syntax
+- Data types and variables
+- Control flow (if statements, loops)
+- Functions and modules
+- File handling
+- Database handling
+- Practice exercises and quizzes
+- References and examples
 
 ## Structure
 
