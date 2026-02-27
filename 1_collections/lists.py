@@ -41,3 +41,6 @@ print(thislist)
 thislist.extend(list1)
 print(thislist)
 
+thislist.remove("cherry")
+print(thislist)
+
