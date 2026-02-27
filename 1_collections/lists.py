@@ -37,3 +37,7 @@ print(thislist)
 
 thislist.insert(1, "teste")
 print(thislist)
+
+thislist.extend(list1)
+print(thislist)
+
