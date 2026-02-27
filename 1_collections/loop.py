@@ -27,3 +27,7 @@ for x in thislist:
         newlist.append(x)
 
 print(newlist)
+
+
+listnb = list(range(10))
+print(listnb)
