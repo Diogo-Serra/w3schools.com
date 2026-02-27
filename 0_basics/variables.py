@@ -19,3 +19,6 @@ print(x)
 
 x = 4
 print("Type: ", type(x))
+
+x, y, z = "Orange", "Banana", "Apple"
+print(x, y, z)
