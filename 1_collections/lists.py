@@ -7,3 +7,5 @@ print(thislist)
 
 thislist = ["Apple", "Apple"]
 print(thislist)
+
+print(len(thislist))
