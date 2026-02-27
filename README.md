@@ -21,9 +21,11 @@ This repository is for learning Python from the ground up, following the W3Schoo
 
 ## Structure
 
-- Example scripts
-- Practice exercises
-- Notes and references
+- 0_basics/
+- 1_collections/
+- 2_control_flow/
+- 3_functions_modules/
+- 4_advanced/
 
 ## Reference
 
