@@ -25,3 +25,10 @@ print(x, y, z)
 
 x = y = z = "Orange"
 print(x, y, z)
+
+fruits = ["Apple", "Banana", "Cherry"]
+x, y, z = fruits
+print(x, y, z)
+
+x = "Python is awesome"
+print(x)
