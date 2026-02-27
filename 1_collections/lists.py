@@ -14,3 +14,6 @@ list1 = ["abc", 35, True, 40, "Male"]
 print(list1)
 
 print(type(list1))
+
+thislist = list(("apple", "Apple"))
+print(thislist)
