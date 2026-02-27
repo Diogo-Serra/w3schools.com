@@ -20,3 +20,10 @@ for x in thislist:
     if "a" in x:
         newlist.append(x)
 print(newlist)
+
+for x in thislist:
+    if "a" in x:
+        x = x.upper()
+        newlist.append(x)
+
+print(newlist)
