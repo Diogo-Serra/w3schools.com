@@ -13,3 +13,17 @@ print("Have a good day.")
 print("Learning Python is fun!")
 
 print("Print1") ; print("Print2")
+
+print("Hello World!", end="") # end string
+
+print(42)
+
+print(40 + 2)
+
+print("I am", 35, "years old.")
+
+"""
+This is a multiline comment
+python ignores string literals
+that arent assigned to a variable
+"""
