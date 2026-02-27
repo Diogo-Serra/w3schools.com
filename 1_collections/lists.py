@@ -34,3 +34,6 @@ print(thislist)
 
 thislist.append("orange")
 print(thislist)
+
+thislist.insert(1, "teste")
+print(thislist)
