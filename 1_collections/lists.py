@@ -26,3 +26,4 @@ thislist = list(("apple", "Apple"))
 print(thislist)
 
 print(thislist[0])
+print(thislist[-1])
