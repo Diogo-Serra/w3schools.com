@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Variables should have descriptive names
+
 x = 4
 y = "Sally"
 print(x)
