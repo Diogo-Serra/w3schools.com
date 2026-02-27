@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 thislist = ["apple", "banana", "cherry"]
+newlist = []
 for x in thislist:
     print(x)
 
@@ -13,3 +14,9 @@ while i < len(thislist):
     i += 1
 
 [print(x) for x in thislist]
+
+
+for x in thislist:
+    if "a" in x:
+        newlist.append(x)
+print(newlist)
