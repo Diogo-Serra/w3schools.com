@@ -22,3 +22,6 @@ print("Type: ", type(x))
 
 x, y, z = "Orange", "Banana", "Apple"
 print(x, y, z)
+
+x = y = z = "Orange"
+print(x, y, z)
