@@ -27,3 +27,7 @@ print(thislist)
 
 print(thislist[0])
 print(thislist[-1])
+
+thislist = ["apple", "banana", "cherry"]
+thislist[1] = "blackcurrant"
+print(thislist)
