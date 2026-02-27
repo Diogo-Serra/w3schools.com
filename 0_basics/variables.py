@@ -9,4 +9,4 @@ x = float(4)
 print(x)
 
 x = 4
-print(type(x))
+print("Type: ", type(x))
