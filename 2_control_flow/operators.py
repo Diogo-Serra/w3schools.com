@@ -30,7 +30,7 @@ else:
   """
 
 
-day = 4
+day = 5
 match day:
     case 1:
         print("1")
@@ -40,3 +40,5 @@ match day:
         print("3")
     case 4:
         print("found")
+    case _:
+        print("other")
