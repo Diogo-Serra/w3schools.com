@@ -11,3 +11,32 @@ if a > b or a > c:
 
 if not a < b:
     print("a is NOT greater than b")
+
+"""
+score = 85
+attendance = 90
+submitted = True
+
+if score >= 60:
+  if attendance >= 80:
+    if submitted:
+      print("Pass with good standing")
+    else:
+      print("Pass but missing assignment")
+  else:
+    print("Pass but low attendance")
+else:
+  print("Fail")
+  """
+
+
+day = 4
+match day:
+    case 1:
+        print("1")
+    case 2:
+        print("2")
+    case 3:
+        print("3")
+    case 4:
+        print("found")
