@@ -16,3 +16,11 @@ def fahrenheit_to_celsius(fahrenheit):
 print(fahrenheit_to_celsius(77))
 print(fahrenheit_to_celsius(50))
 print(type(fahrenheit_to_celsius(50)))
+
+
+def greeting():
+    return "Hello"
+
+
+message = greeting()
+print(message)
