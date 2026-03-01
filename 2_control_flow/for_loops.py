@@ -8,18 +8,16 @@ for x in fruits:
 for x in "banana":
     print(x)
 
-
 for x in range(6):
     print(x)
-
 
 for x in range(2, 6):
     print(x)
 
-
 for x in range(2, 30, 3):
     print(x)
 
+print("\n")
 
 for x in range(6):
     if x == 3:
