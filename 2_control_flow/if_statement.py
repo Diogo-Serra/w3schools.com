@@ -20,6 +20,12 @@ def if_statement():
         print(f"{b} is greater then {a}")
     else:
         print(f"{a} is greater then {b}")
+    if ((int)(a) > 0):
+        print(f"{a} is a positive number")
+    elif ((int)(a) < 0):
+        print(f"{a} is a negative number")
+    else:
+        print(f"{a} is 0")
 
 
 if_statement()
