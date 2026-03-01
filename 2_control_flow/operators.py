@@ -30,6 +30,8 @@ else:
   """
 
 
+# _ underscore character _ as the last case value to
+# to execute when there are not other matches
 day = 5
 match day:
     case 1:
