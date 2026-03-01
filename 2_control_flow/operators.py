@@ -52,3 +52,12 @@ match day:
         print("Today is a weekday")
     case 6 | 7:
         print("I love weekends!")
+
+
+month = 1
+day = 4
+match day:
+    case 1 | 2 | 3 | 4 | 5 if month == 1:
+        print("January day")
+    case 1 | 2 | 3 | 4 | 5 if month == 2:
+        print("February day")
