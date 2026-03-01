@@ -34,6 +34,12 @@ def if_statement():
     else:
         print("NOK")
 
+    username = input("Insert your name: ")
+    if (len(username) > 0):
+        print(f"Welcome: {username}")
+    else:
+        print("Insert valid username.")
+
 
 # This part will run first
 score = 75
