@@ -27,6 +27,13 @@ def if_statement():
     else:
         print(f"{a} is 0")
 
+    number = 7
+
+    if number == 7:
+        print(f"{number}")
+    else:
+        print("NOK")
+
 
 # This part will run first
 score = 75
