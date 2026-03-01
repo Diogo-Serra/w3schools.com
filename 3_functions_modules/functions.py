@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+"""
+def my_function(name): # name is a parameter
+  print("Hello", name)
+
+my_function("Emil") # "Emil" is an argument
+"""
+
 
 def my_function():
     print("Hello World")
