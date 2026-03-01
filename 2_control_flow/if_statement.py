@@ -11,8 +11,15 @@ Python supports the usual logical conditions from mathematics:
 """
 
 
+a = input("Insert number: ")
+b = input("Insert number: ")
+
+
 def if_statement():
-    print("All good")
+    if (b > a):
+        print(f"{b} is greater then {a}")
+    else:
+        print(f"{a} is greater then {b}")
 
 
 if_statement()
