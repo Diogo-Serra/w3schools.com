@@ -28,4 +28,19 @@ def if_statement():
         print(f"{a} is 0")
 
 
+# This part will run first
+score = 75
+
+if (score >= 90):
+    print("Grade A")
+elif (score >= 80):
+    print("Grade B")
+elif score >= 70:
+    print("Grade C")
+elif score >= 60:
+    print("Grade D")
+else:
+    print("Not good")
+
+
 if_statement()
